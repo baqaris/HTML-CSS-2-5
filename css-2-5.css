@@ -1,0 +1,1430 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.contener {
+
+    background: #FBF9FF;
+    text-align: center;
+    padding: 12px 32px;
+    margin: 0 auto;
+}
+
+.logo {
+    display: inline-block;
+    vertical-align: middle;
+    text-decoration: none;
+    padding-right: 650px;
+
+
+}
+
+.navi {
+    display: inline-block;
+    vertical-align: middle;
+    width: 263px;
+    text-decoration: none;
+
+}
+
+/*ancors*/
+.navi a {
+    text-decoration: none;
+    color: #323232;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 20px;
+}
+
+.ContactUs {
+    display: inline-block;
+    text-decoration: none;
+    padding-left: 650px;
+    vertical-align: middle;
+
+
+}
+
+.ContactUs a {
+    width: 105px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding: 8px 16px;
+    border-radius: 8px;
+    background-color: #6941c6;
+    border: 1px solid #6941C6;
+}
+
+/* big conteiner One! */
+.mainc {
+    width: 1248px;
+    height: 2970px;
+    padding: 96px;
+    background: #F1E8FF;
+    margin: 0 auto;
+    margin-top: 94px;
+}
+
+#cont1 {
+    width: 1195px;
+    height: 763px;
+    padding: 0 32px;
+
+}
+
+/*header text*/
+#headerText {
+    width: 259px;
+    color: #181D27;
+    text-align: center;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin: 0 auto;
+}
+
+/* paragrap */
+#Simpletext {
+    width: 676px;
+    color: #535862;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 32px;
+}
+
+#insaidecont {
+    width: 1195px;
+    height: 599px;
+
+
+}
+
+#priceconteiner {
+    display: inline-block;
+    vertical-align: middle;
+    width: 373px;
+    height: 600px;
+    background-color: #ffffff;
+    border-radius: 16px;
+
+}
+
+#smallcont1 {
+    width: 309px;
+    height: 260px;
+    padding-top: 40px;
+    padding-left: 32px;
+    padding-bottom: 32px;
+    padding-right: 32px;
+
+}
+
+#divider {
+    margin: 0 auto;
+    width: 309px;
+    height: 1px;
+    background-color: #E9EAEB;
+}
+
+#smallcont2 {
+    width: 309px;
+    height: 217px;
+    padding-top: 32px;
+    padding-left: 32px;
+    padding-bottom: 40px;
+    padding-right: 32px;
+
+
+}
+
+#smallcont1text1 {
+    width: 69px;
+    padding: 4px 12px;
+    border: 1px solid #e9d7fe;
+    background: #F9F5FF;
+    color: #6941C6;
+    text-align: center;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    border-radius: 9999px;
+    margin: 0 auto;
+}
+
+#smallcont1text2 {
+    color: #181D27;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 60px;
+    letter-spacing: -0.96px;
+    margin: 0 auto;
+    margin-top: 16px;
+}
+
+#smallcont1text3 {
+    color: #535862;
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin: 0 auto;
+    margin: 0;
+    margin-bottom: 16px;
+}
+
+#button1 {
+    width: 309px;
+    padding: 12px 18px;
+    align-items: center;
+    border-radius: 8px;
+    background: #7f56d9;
+    border-radius: 2px solid rgba(255, 255, 255, 0.12);
+    color: #fff;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    cursor: pointer;
+
+}
+
+#button2 {
+    margin-top: 12px;
+    width: 309px;
+    padding: 12px 18px;
+    align-items: center;
+    border-radius: 8px;
+    background: #FFF;
+    border: 1px solid #D5D7DA;
+    color: #414651;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    cursor: pointer;
+
+}
+
+#img1 {
+    display: inline-block;
+    vertical-align: middle;
+    justify-content: center;
+
+}
+
+#smallcont2text1 {
+    display: inline-block;
+    vertical-align: middle;
+    justify-content: center;
+    width: 270px;
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+
+}
+
+#smallcont2 P {
+    margin: 8px 0;
+}
+
+#img2 {
+    display: inline-block;
+    vertical-align: middle;
+    justify-content: center;
+
+}
+
+#smallcont2text2 {
+    display: inline-block;
+    vertical-align: middle;
+    justify-content: center;
+    width: 270px;
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#img3 {
+    display: inline-block;
+    vertical-align: middle;
+    justify-content: center;
+}
+
+#smallcont2text3 {
+    display: inline-block;
+    vertical-align: middle;
+    justify-content: center;
+    width: 270px;
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#img4 {
+    display: inline-block;
+    vertical-align: middle;
+    justify-content: center;
+}
+
+#smallcont2text4 {
+    display: inline-block;
+    vertical-align: middle;
+    justify-content: center;
+    width: 270px;
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#img5 {
+    display: inline-block;
+    vertical-align: middle;
+    justify-content: center;
+}
+
+#smallcont2text5 {
+    display: inline-block;
+    vertical-align: middle;
+    justify-content: center;
+    width: 270px;
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+/* sec conteiner*/
+#priceconteinerSec {
+    display: inline-block;
+    vertical-align: middle;
+    width: 373px;
+    height: 600px;
+    background-color: #ffffff;
+    border-radius: 16px;
+    margin-left: 32px;
+}
+
+#smallcontsec {
+    width: 309px;
+    height: 260px;
+    padding-top: 40px;
+    padding-left: 32px;
+    padding-bottom: 32px;
+    padding-right: 32px;
+}
+
+#smallcont1textsec {
+    width: 93px;
+    padding: 4px 12px;
+    border: 1px solid #e9d7fe;
+    background: #F9F5FF;
+    color: #6941C6;
+    text-align: center;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    border-radius: 9999px;
+    margin: 0 auto;
+}
+
+#smallcont1textSec {
+    color: #181D27;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 60px;
+    letter-spacing: -0.96px;
+    margin: 0 auto;
+    margin-top: 16px;
+}
+
+#smallcont1textthre {
+    color: #535862;
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin: 0 auto;
+    margin: 0;
+    margin-bottom: 16px;
+}
+
+#buttonOne {
+    width: 309px;
+    padding: 12px 18px;
+    align-items: center;
+    border-radius: 8px;
+    background: #7f56d9;
+    border-radius: 2px solid rgba(255, 255, 255, 0.12);
+    color: #fff;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    cursor: pointer;
+}
+
+#buttonSec {
+    margin-top: 12px;
+    width: 309px;
+    padding: 12px 18px;
+    align-items: center;
+    border-radius: 8px;
+    background: #FFF;
+    border: 1px solid #D5D7DA;
+    color: #414651;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    cursor: pointer;
+}
+
+#dividerOne {
+    margin: 0 auto;
+    width: 309px;
+    height: 1px;
+    background-color: #E9EAEB;
+}
+
+#smallcontSecc {
+    width: 309px;
+    height: 217px;
+    padding-top: 32px;
+    padding-left: 32px;
+    padding-bottom: 40px;
+    padding-right: 32px;
+}
+
+#imgOne {
+    display: inline-block;
+    vertical-align: middle;
+    justify-content: center;
+}
+
+#smallcont2textOne {
+
+    display: inline-block;
+    vertical-align: middle;
+    justify-content: center;
+    width: 270px;
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#imgSec {
+    display: inline-block;
+    vertical-align: middle;
+    justify-content: center;
+}
+
+#smallcont2textSEC {
+    display: inline-block;
+    vertical-align: middle;
+    justify-content: center;
+    width: 270px;
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#imgThree {
+    display: inline-block;
+    vertical-align: middle;
+    justify-content: center;
+}
+
+#smallcont2textThreth {
+    display: inline-block;
+    vertical-align: middle;
+    justify-content: center;
+    width: 270px;
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#imgFourth {
+    display: inline-block;
+    vertical-align: middle;
+    justify-content: center;
+}
+
+#smallcont2textfourth {
+    display: inline-block;
+    vertical-align: middle;
+    justify-content: center;
+    width: 270px;
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#imgfifth {
+    display: inline-block;
+    vertical-align: middle;
+    justify-content: center;
+}
+
+#smallcont2textfifth {
+    display: inline-block;
+    vertical-align: middle;
+    justify-content: center;
+    width: 270px;
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#smallcontSecc P {
+    margin: 8px 0;
+}
+
+/*treeth conteiner*/
+#priceconteinerthre {
+    display: inline-block;
+    vertical-align: middle;
+    justify-content: center;
+    width: 373px;
+    height: 600px;
+    background-color: #ffffff;
+    border-radius: 16px;
+    margin-left: 32px;
+}
+
+#smallcontthre {
+    width: 309px;
+    height: 260px;
+    padding-top: 40px;
+    padding-left: 32px;
+    padding-bottom: 32px;
+    padding-right: 32px;
+}
+
+#smallcont1textthree {
+    width: 110px;
+    padding: 4px 12px;
+    border: 1px solid #e9d7fe;
+    background: #F9F5FF;
+    color: #6941C6;
+    text-align: center;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    border-radius: 9999px;
+    margin: 0 auto;
+}
+
+#smallcont1textthrees {
+    color: #181D27;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 60px;
+    letter-spacing: -0.96px;
+    margin: 0 auto;
+    margin-top: 16px;
+}
+
+#smallcont1textthreee {
+    color: #535862;
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin: 0 auto;
+    margin: 0;
+    margin-bottom: 16px;
+}
+
+#buttonthre {
+    width: 309px;
+    padding: 12px 18px;
+    align-items: center;
+    border-radius: 8px;
+    background: #7f56d9;
+    border-radius: 2px solid rgba(255, 255, 255, 0.12);
+    color: #fff;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    cursor: pointer;
+}
+
+#buttonfourth {
+    margin-top: 12px;
+    width: 309px;
+    padding: 12px 18px;
+    align-items: center;
+    border-radius: 8px;
+    background: #FFF;
+    border: 1px solid #D5D7DA;
+    color: #414651;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    cursor: pointer;
+}
+
+#dividersec {
+    margin: 0 auto;
+    width: 309px;
+    height: 1px;
+    background-color: #E9EAEB;
+}
+
+#smallcontthreeS {
+    width: 309px;
+    height: 217px;
+    padding-top: 32px;
+    padding-left: 32px;
+    padding-bottom: 40px;
+    padding-right: 32px;
+}
+
+#imgthree {
+    display: inline-block;
+    vertical-align: middle;
+    justify-content: center;
+
+}
+
+#smallcont2textthree {
+    display: inline-block;
+    vertical-align: middle;
+    justify-content: center;
+    width: 270px;
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#imgThrre {
+    display: inline-block;
+    vertical-align: middle;
+    justify-content: center;
+
+}
+
+#smallcont2texthre {
+    display: inline-block;
+    vertical-align: middle;
+    justify-content: center;
+    width: 270px;
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#imgThhree {
+    display: inline-block;
+    vertical-align: middle;
+    justify-content: center;
+}
+
+#smallcont2textThretgh {
+    display: inline-block;
+    vertical-align: middle;
+    justify-content: center;
+    width: 270px;
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#imgFourfth {
+    display: inline-block;
+    vertical-align: middle;
+    justify-content: center;
+}
+
+#smallcont2textfourtsh {
+    display: inline-block;
+    vertical-align: middle;
+    justify-content: center;
+    width: 270px;
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#imgfiftah {
+    display: inline-block;
+    vertical-align: middle;
+    justify-content: center;
+}
+
+#smallcont2textfiafth {
+    display: inline-block;
+    vertical-align: middle;
+    justify-content: center;
+    width: 270px;
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#smallcontthreeS P {
+    margin: 8px 0;
+}
+
+/* Frequently asked questions */
+#ContFrequently {
+    width: 1200px;
+    height: 1252px;
+    border-radius: 24px;
+    background: #FFF;
+    padding: 32px 0;
+    margin: 0 auto;
+    margin-top: 64px;
+}
+
+#FrequentlyTexs {
+    width: 768px;
+    margin: 0 auto;
+    margin-bottom: 32px;
+}
+
+#askedtext {
+    color: #181D27;
+    text-align: center;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 44px;
+    margin: 0;
+}
+
+#EverythingText {
+    width: 768px;
+    text-align: center;
+    color: #535862;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    margin: 0;
+    margin-top: 20px;
+
+}
+
+#contentCon {
+    max-width: 768px;
+    height: 1064px;
+    margin: 0 auto;
+}
+
+#Faq {
+    width: 768px;
+    height: 104px;
+    padding: 32px;
+    border-radius: 16px;
+    background: #e4e4e4;
+    margin: 0 auto;
+    margin-bottom: 16px;
+}
+
+#Faqtexts {
+    width: 606px;
+    height: 104px
+}
+
+#Arrowlogo {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 24px;
+}
+
+#texstesss {
+    display: inline-block;
+}
+
+#isthere {
+    margin: 0;
+    color: #181D27;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 8px;
+}
+
+#Yestext {
+    margin: 0;
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    width: 656px;
+}
+
+
+/* next content Faq */
+#Faq2 {
+    width: 768px;
+    height: 104px;
+    padding: 32px;
+    border-radius: 16px;
+    background: #FFE5E5;
+    margin: 0 auto;
+    margin-bottom: 16px;
+    border: 2px solid #FF2323;
+}
+
+#Arrowlogo1 {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 24px;
+}
+
+#texstesss1 {
+    display: inline-block;
+}
+
+#isthere1 {
+    margin: 0;
+    color: #181D27;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 8px;
+}
+
+#Yestext1 {
+    margin: 0;
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    width: 656px;
+}
+
+/* 3 Faq textes*/
+#Faq3 {
+    width: 768px;
+    height: 104px;
+    padding: 32px;
+    border-radius: 16px;
+    margin: 0 auto;
+    margin-bottom: 16px;
+    background: #E9D7FF;
+}
+
+#Arrowlogo3 {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 24px;
+}
+
+#texstesss3 {
+    display: inline-block;
+}
+
+#isthere3 {
+    margin: 0;
+    color: #181D27;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 8px;
+}
+
+#Yestext3 {
+    margin: 0;
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    width: 656px;
+}
+
+/* Faq 4 texsts*/
+#Faq4 {
+    width: 768px;
+    height: 104px;
+    padding: 32px;
+    border-radius: 16px;
+    margin: 0 auto;
+    margin-bottom: 16px;
+    background: #F7F4FF;
+}
+
+#Arrowlogo4 {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 24px;
+}
+
+#texstesss4 {
+    display: inline-block;
+}
+
+#isthere4 {
+    margin: 0;
+    color: #181D27;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 8px;
+}
+
+#Yestext4 {
+    margin: 0;
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    width: 656px;
+}
+
+/* Faq 5 texsts*/
+#Faq5 {
+    width: 768px;
+    height: 104px;
+    padding: 32px;
+    border-radius: 16px;
+    margin: 0 auto;
+    margin-bottom: 16px;
+    border: 4px solid #326DFF;
+    background: #DCE6FF;
+}
+
+#Arrowlogo5 {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 24px;
+}
+
+#texstesss5 {
+    display: inline-block;
+}
+
+#isthere5 {
+    margin: 0;
+    color: #181D27;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 8px;
+}
+
+#Yestext5 {
+    margin: 0;
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    width: 656px;
+}
+
+/* !!!!!!!!!!!!*/
+
+
+#Faq6 {
+    width: 768px;
+    height: 104px;
+    padding: 32px;
+    border-radius: 16px;
+    margin: 0 auto;
+    margin-bottom: 16px;
+    background: #FFD5E7;
+}
+
+#Arrowlogo6 {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 24px;
+}
+
+#texstesss6 {
+    display: inline-block;
+}
+
+#isthere6 {
+    margin: 0;
+    color: #181D27;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 8px;
+}
+
+#Yestext6 {
+    margin: 0;
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    width: 656px;
+}
+
+/* Our reviews */
+#OurReviews {
+    width: 1185px;
+    height: 696px;
+    padding: 32px 0;
+    background: #FFF;
+    margin: 0 auto;
+    border-radius: 24px;
+    margin-top: 64px;
+}
+
+#Lestconteiner {
+    width: 768px;
+    margin: 0 auto;
+}
+
+#lastHeader {
+    color: #181D27;
+    text-align: center;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 44px;
+    margin: 0;
+}
+
+#lastText {
+    color: #535862;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin: 0;
+    margin-top: 20px;
+}
+
+#personalexp {
+    width: 1200px;
+    height: 536px;
+    margin: 0 auto;
+    margin-top: 64px;
+
+}
+
+/* Personaliti SiennaHewitt */
+#SiennaHewitt {
+    display: inline-block;
+    vertical-align: middle;
+
+    width: 516px;
+    height: 192px;
+    border-radius: 12px;
+    border: 1px solid #E9EAEB;
+    background: #FFF;
+    padding: 32px;
+}
+
+#sienaatextconte {
+    width: 516px;
+    margin-bottom: 80px;
+}
+
+#sienaText {
+    color: #181D27;
+    font-family: Inika;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+    margin: 0;
+}
+
+#Sienalogo {
+    width: 310px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#textnames {
+    width: auto;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#firstname {
+    color: #181D27;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 28px;
+    margin: 0;
+    display: inline-block;
+
+}
+
+#herhisdescription {
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin: 0;
+}
+
+#sirenabeauty {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#verificationlogo {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#companylogosienas {
+    display: inline-block;
+    vertical-align: top;
+    width: 200px;
+    text-align: right;
+}
+
+/* Caitalin Caitalin Caitalin */
+#Caitalins {
+    display: inline-block;
+    vertical-align: middle;
+    width: 516px;
+    height: 192px;
+    border-radius: 12px;
+    border: 1px solid #E9EAEB;
+    background: #FFF;
+    padding: 32px;
+    margin-left: 15px;
+}
+
+#Caitalintextconte {
+    width: 516px;
+    margin-bottom: 55px;
+}
+
+#CaitalinText {
+    color: #181D27;
+    font-family: Inika;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+    margin: 0;
+}
+
+#Caitalinlogo {
+    width: 310px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#texTnames {
+    width: auto;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#firstName {
+    color: #181D27;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 28px;
+    margin: 0;
+    display: inline-block;
+
+}
+
+#heerhisdescription {
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin: 0;
+}
+
+#Caitalinbeauty {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#verificationlogo2 {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#companyylogosienas {
+    display: inline-block;
+    vertical-align: top;
+    width: 200px;
+    text-align: right;
+}
+/*! Olly Schroeder Olly Schroeder ! */
+#Olly {
+    display: inline-block;
+    vertical-align: middle;
+    width: 516px;
+    height: 192px;
+    border-radius: 12px;
+    border: 1px solid #E9EAEB;
+    background: #FFF;
+    padding: 32px;
+    margin-top:18px;
+    margin-right:15px;
+  
+}
+
+#Ollylintextconte {
+    width: 516px;
+    margin-bottom: 55px;
+}
+
+#OllyTextt {
+    color: #181D27;
+    font-family: Inika;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+    margin: 0;
+}
+
+#Ollylogo {
+    width: 310px;
+    display: inline-block;
+    vertical-align: top;
+}
+#Ollyalinbeauty {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#texTnamess {
+    width: auto;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#firtName {
+    color: #181D27;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 28px;
+    margin: 0;
+    display: inline-block;
+
+}
+
+#verificationlogo3 {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#heerhhisdescription {
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin: 0;
+}
+
+#companyYlogosienas {
+    display: inline-block;
+    vertical-align: top;
+    width: 200px;
+    text-align: right;
+}
+
+/* !!!!Riley O’Moore Riley O’Moore!!!!!! */
+#Riley {
+    display: inline-block;
+    vertical-align: middle;
+    width: 516px;
+    height: 192px;
+    border-radius: 12px;
+    border: 1px solid #E9EAEB;
+    background: #FFF;
+    padding: 32px;
+    margin-top:18px;
+    
+}
+
+#Rileylintextconte {
+    width: 516px;
+    margin-bottom: 80px;
+}
+
+#RileyTextt {
+    color: #181D27;
+    font-family: Inika;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+    margin: 0;
+}
+
+#Rileylogo {
+    width: 310px;
+    display: inline-block;
+    vertical-align: top;
+}
+#Rileyalinbeauty {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#texTnammess {
+    width: auto;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#firttName {
+    color: #181D27;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 28px;
+    margin: 0;
+    display: inline-block;
+
+}
+
+#verificationlogo4 {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#heerhhisdescriptionn {
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin: 0;
+}
+
+#comppanyYlogosienas {
+    display: inline-block;
+    vertical-align: top;
+    width: 200px;
+    text-align: right;
+}
